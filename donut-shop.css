@@ -1,0 +1,78 @@
+		//magenta #E17DB9
+		//neutral #ADAA84
+		//sage #B4BF82
+		//beige-y coffee #7D5B3F
+		//chocolate #260E01
+
+*	{
+	font-family: Andika, sans-serif;
+	color: #260E01;
+	text-align: center;
+	background-color: #7D5B3F;
+	width: 250px;
+}
+
+blockquote {
+	float: left;
+	width:300px;
+	font-size: 85%;
+	font-style: italic;
+	margin: 10px 10px 10px 10px;
+	padding: 10px;
+	border-top: 1px solid #260E01;
+	border-bottom: 1px solid #260E01;	
+}
+
+table {
+  width: 70%;
+  height: 150px;
+}
+
+body {
+	text-align: center;
+	font-family: Andika, sans-serif;
+	font-size: 90%;
+	color: #260E01; //chocolate
+	background-color: #7D5B3F; //sage
+}
+
+div {
+	border: 20px solid #260E01;
+}	
+
+th {
+	height: 10px;	
+	text-align: center;
+	font-family: Andika, sans-serif;
+	font-size: 60%;
+	color:#FFFFFF ;
+	border-spacing: 40px;
+	margin: 20px;
+}
+
+th, td {
+	text-align: center;
+	background-color: #ADAA84; //sage
+	color:#7D5B3F;
+	border-top: 5px solid #260E01;
+	padding: 15px 30px 15px 10px;
+	border-bottom: 10px solid: #260E01;
+}
+
+tr.head th {
+	text-align: center;
+	color:#B4BF82; //sage
+	background-color: #ADAA84; //neutral
+	border-top: 3px solid: ;
+	padding: 30px 30px 20px 20px;
+	border-bottom: 10px solid: #B4BF82;
+}
+
+ {
+	border: 2px solid: #B4BF82;
+	border-bottom-right-radius: 2em;
+	border-bottom-left-radius: 3em;
+}	
+
+
+
